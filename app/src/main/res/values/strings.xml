@@ -12,4 +12,124 @@
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
+    <string name="Rivers_1">River intersection</string>
+
+    <string name="Rivers_2">Intersection of Mosoni Duna and Raba</string>
+
+    <string name="Rivers_3">Best view from Jedlik Ányos bridge</string>
+
+    <string name="Zoo_1">Visiting Győr Zoo</string>
+
+    <string name="Zoo_2">A diverse and children friendly zoo</string>
+
+    <string name="Zoo_3">Állatkerti krt. 12</string>
+
+    <string name="Forest_1">Hiking in Püspök Erdő</string>
+
+    <string name="Forest_2">Forest with rich wildlife</string>
+
+    <string name="Forest_3">20 minutes walk from the city center</string>
+
+    <string name="Spa_1">Aquapark</string>
+
+    <string name="Spa_2">A thermal spa in the center of Győr</string>
+
+    <string name="Spa_3">Fürdő tér 1</string>
+
+    <string name="Nyul_1">Hiking in Nyúl area</string>
+
+    <string name="Nyul_2">Hiking path easily reachable from Győr</string>
+
+    <string name="Nyul_3">Nyúl, 20 minutes drive from Győr</string>
+
+    <string name="Csillag_1">Csillag</string>
+
+    <string name="Csillag_2">Retro bar and café</string>
+
+    <string name="Csillag_3">Csillag utca 6</string>
+
+    <string name="Hrabal_1">Hrabal</string>
+
+    <string name="Hrabal_2">Czech stlye pub</string>
+
+    <string name="Hrabal_3">Czuczor Gergely utca 6</string>
+
+    <string name="Kisbohem_1">Kis Bohém</string>
+
+    <string name="Kisbohem_2">Popular bar and café</string>
+
+    <string name="Kisbohem_3">Jedlik Ányos utca 17</string>
+
+    <string name="Johnbull_1">John Bull Pub</string>
+
+    <string name="Johnbull_2">Bar and restaurant in the city center</string>
+
+    <string name="Johnbull_3">Aradi vértanúk útja 3</string>
+
+    <string name="Divino_1">Divino</string>
+
+    <string name="Divino_2">Wine bar on the main square</string>
+
+    <string name="Divino_3">Széchenyi tér 7</string>
+
+    <string name="Lamareda_1">La Maréda</string>
+
+    <string name="Lamareda_2">High-end traditional kitchen</string>
+
+    <string name="Lemareda_3">Apáca utca 4</string>
+
+    <string name="Palffy_1">Pálffy</string>
+
+    <string name="Palffy_2">Hungarian and international kitchen</string>
+
+    <string name="Palffy_3">Jedlik Ányos utca 19</string>
+
+    <string name="Zoldfa_1">Zöldfa</string>
+
+    <string name="Zoldfa_2">Hungarian and international kitchen</string>
+
+    <string name="Zoldfa_3">Jedlik Ányos utca 19</string>
+
+    <string name="Kristaly_1">Zöldfa</string>
+
+    <string name="Kristaly_2">Hungarian and international kitchen</string>
+
+    <string name="Kristaly_3">Jedlik Ányos utca 19</string>
+
+    <string name="Nimrod_1">Nimrod Restaurant</string>
+
+    <string name="Nimrod_2">Traditional kitchen</string>
+
+    <string name="Nimrod_3">Nagy Imre utca 48</string>
+
+    <string name="Townhall_1">Town hall</string>
+
+    <string name="Townhall_2">Neo-Baroque style town hall</string>
+
+    <string name="Townhall_3">Városház tér 1</string>
+
+    <string name="Széchenyisquare_1">Szécshenyi tér</string>
+
+    <string name="Széchenyisquare_2">Square surrounded by baroque houses</string>
+
+    <string name="Széchenyisquare_3">Szécshenyi tér</string>
+
+    <string name="Barossstreet_1">Baross street</string>
+
+    <string name="Barossstreet_2">Major walking and shopping street in Győr</string>
+
+    <string name="Barossstreet_3">Baross utca</string>
+
+    <string name="Benedictinechruch_1">Benedictine church</string>
+
+    <string name="Benedictinechruch_2">Church and in the 17th c.</string>
+
+    <string name="Benedictinechurch_3">Széchenyi tér 8</string>
+
+    <string name="Basilica_1">Benedictine church</string>
+
+    <string name="Basilica_2">Cathedral built in the 11th c.</string>
+
+    <string name="Basilica_3">Káptalandomb</string>
+
 </resources>

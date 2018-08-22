@@ -18,11 +18,11 @@ public class ActivitiesFragment extends Fragment {
 
         final ArrayList<Location> location_items = new ArrayList<Location>();
 
-        location_items.add(new Location("River intersection", "Intersection of Mosoni Duna and Raba", "Best view from Jedlik Ányos bridge", R.drawable.raba));
-        location_items.add(new Location("Visiting Győr Zoo", "A diverse and children friendly zoo", "Állatkerti krt. 12", R.drawable.allatkertgyor));
-        location_items.add(new Location("Hiking in Püspök Erdő", "Forest with rich wildlife", "20 minutes walk from the city center", R.drawable.puspokerdo));
-        location_items.add(new Location("Aquapark", "A thermal spa in the center of Győr", "Fürdő tér 1", R.drawable.thermalbath));
-        location_items.add(new Location("Hiking in Nyúl area", "Hiking path - easily reachable from Győr", "20 minutes drive from Győr", R.drawable.nyul));
+        location_items.add(new Location(getString(R.string.Rivers_1), getString(R.string.Rivers_2), getString(R.string.Rivers_3), R.drawable.raba));
+        location_items.add(new Location(getString(R.string.Zoo_1), getString(R.string.Zoo_2), getString(R.string.Zoo_3), R.drawable.allatkertgyor));
+        location_items.add(new Location(getString(R.string.Forest_1), getString(R.string.Forest_2), getString(R.string.Forest_3), R.drawable.puspokerdo));
+        location_items.add(new Location(getString(R.string.Spa_1), getString(R.string.Spa_2), getString(R.string.Spa_3), R.drawable.thermalbath));
+        location_items.add(new Location(getString(R.string.Nyul_1), getString(R.string.Nyul_2), getString(R.string.Nyul_3), R.drawable.nyul));
 
         LocationAdapter adapter = new LocationAdapter(getActivity(), location_items, R.color.topic_Activities);
 

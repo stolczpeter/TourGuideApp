@@ -18,11 +18,11 @@ public class CuisineFragment extends Fragment {
 
         final ArrayList<Location> location_items = new ArrayList<Location>();
 
-        location_items.add(new Location("La Maréda", "High-end traditional kitchen", "Apáca utca 4", R.drawable.lamareda));
-        location_items.add(new Location("Pálffy Restaurant", "Hungarian & international kitchen", "Jedlik Ányos utca 19", R.drawable.palffy));
-        location_items.add(new Location("Zöldfa Restaurant", "Popular local restaurant", "Hunyadi utca 2", R.drawable.zoldfa));
-        location_items.add(new Location("Kristaly Restaurant", "Popular local restaurant", "Bartók Béla út 9", R.drawable.kristaly));
-        location_items.add(new Location("Nimrod Restaurant", "Traditional kitchen", "Nagy Imre utca 48", R.drawable.nimrod));
+        location_items.add(new Location(getString(R.string.Lamareda_1), getString(R.string.Lamareda_2), getString(R.string.Lemareda_3), R.drawable.lamareda));
+        location_items.add(new Location(getString(R.string.Palffy_1), getString(R.string.Palffy_2), getString(R.string.Palffy_3), R.drawable.palffy));
+        location_items.add(new Location(getString(R.string.Zoldfa_1), getString(R.string.Zoldfa_2), getString(R.string.Zoldfa_3), R.drawable.zoldfa));
+        location_items.add(new Location(getString(R.string.Kristaly_1), getString(R.string.Kisbohem_2), getString(R.string.Kisbohem_3), R.drawable.kristaly));
+        location_items.add(new Location(getString(R.string.Nimrod_1), getString(R.string.Nimrod_2), getString(R.string.Nimrod_3), R.drawable.nimrod));
 
         LocationAdapter adapter = new LocationAdapter(getActivity(), location_items, R.color.topic_Cuisine);
 

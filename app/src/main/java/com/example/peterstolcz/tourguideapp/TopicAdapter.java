@@ -1,7 +1,6 @@
 package com.example.peterstolcz.tourguideapp;
 
 import android.content.Context;
-import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
@@ -19,7 +18,7 @@ public class TopicAdapter extends FragmentPagerAdapter {
     }
 
     @Override
-    public Fragment getItem(int position) {
+    public android.support.v4.app.Fragment getItem(int position) {
         if (position == 0) {
             return new Sights();
         } else if (position == 1) {
@@ -27,7 +26,7 @@ public class TopicAdapter extends FragmentPagerAdapter {
         } else if (position == 2){
             return new ActivitiesFragment();
         } else {
-        return new Bars();
+        return new BarsFragment();
     }
 }
 
